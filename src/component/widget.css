@@ -1,0 +1,63 @@
+.FirstWidget{
+  width: 300px;
+  height: 250px;
+  background-image: url(../assets/new/First\ Widgets.gif); 
+  background-repeat: no-repeat;
+  background-color: #fa96e6;
+  cursor: pointer;
+}
+
+.SecondWidget {
+  width: 300px;
+  height: 250px;
+  background-image: url(../assets/hand\ navigation\ for\ dirty\ shirt\ Next\ NEW.gif); 
+  background-repeat: no-repeat;
+  background-color: #fa96e6;
+  cursor: pointer;
+}
+
+.dirty {
+    cursor: url(../assets/new/mouse3.png), auto;
+  }
+
+
+  .backgroundF{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/Fregance_Gif\ copy.gif); 
+    background-repeat: no-repeat;
+  background-color: #fa96e6;
+
+
+
+  }
+
+  .ThirdWidgrt{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/new/hand\ navigation\ fragance.gif); 
+    background-repeat: no-repeat;
+  background-color: #fa96e6;
+  cursor: pointer;
+
+
+  }
+
+
+  .background{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/300\ x\ 250\ NEW\ NEW\ 1.jpg); 
+    background-repeat: no-repeat;
+  background-color: #fa96e6;
+
+} 
+
+.backgroundLast{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/zEnding.gif); 
+    background-repeat: no-repeat;
+  background-color: #fa96e6;
+
+}
