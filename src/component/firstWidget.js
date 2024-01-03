@@ -11,7 +11,7 @@ function FirstWidget() {
       const apiUrl = process.env.REACT_APP_API_URL;
 
       // Send a POST request to the API endpoint
-      const response = await fetch(apiUrl, {
+      const response = await fetch(`${apiUrl}/1`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
