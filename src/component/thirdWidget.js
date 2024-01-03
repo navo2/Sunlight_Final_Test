@@ -36,7 +36,7 @@ function ThirdWidgrt() {
         console.error('Error counting click:', error);
       }
   
-      // Navigate to the '/second' route after the click is processed
+      // Navigate to the route after the click is processed
       navigate('/fregrant');
     };
   
