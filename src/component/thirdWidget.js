@@ -14,7 +14,7 @@ function ThirdWidgrt() {
         const apiUrl = process.env.REACT_APP_API_URL;
   
         // Send a POST request to the API endpoint
-        const response = await fetch(`${apiUrl}/2`, {
+        const response = await fetch(`${apiUrl}/3`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
